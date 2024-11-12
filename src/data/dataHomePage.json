@@ -1,0 +1,61 @@
+[
+  {
+    "titleforRouting" :"leucaena-leucocephala",
+    "title": "LEUCAENA LEUCOCEPHALA",
+    "imageSrc": "/src/assets/LEUCAENA LEUCOCEPHALA.jpg",
+    "Introduction": "Leucaena leucocephala is a fast-growing, perennial tree native to Central and South America but now widely distributed in tropical and subtropical regions worldwide."
+  },{
+    "titleforRouting" :"Allamanda-blanchetii",
+    "title":"ALLAMANDA BLANCHETII",
+    "imageSrc":"/src/assets/Allamanda blanchetii.jpg",
+    "Introduction":"Allamanda blanchetii, or Purple Allamanda, is a perennial flowering plant native to South and Central America. It is loved for its stunning purple to pink trumpet-shaped flowers and lush green foliage."
+  },
+  {
+    "titleforRouting" :"rose",
+    "title":"ROSE",
+    "imageSrc":"/src/assets/rose.jpg",
+    "Introduction":"Roses are flowering shrubs from the Rosa genus, native to Asia, Europe, North America, and Northwest Africa."
+  },
+  {
+    "titleforRouting" :"Hibiscus",
+    "title":"HIBISCUS",
+    "imageSrc":"/src/assets/Hibiscus.jpg",
+    "Introduction":"Hibiscus is a flowering plant genus in the mallow family, Malvaceae. Known for its large, colorful flowers, hibiscus plants are widely grown in tropical and subtropical regions around the world"
+  },
+  {
+    "titleforRouting" :"Canna-lily",
+    "title":"CANNA LILY",
+    "imageSrc":"/src/assets/Canna lily.jpg",
+    "Introduction":"Canna lilies are tropical, flowering plants known for their large, lush foliage and vibrant blooms in shades of red, orange, yellow, and pink. Although they’re called “lilies,” they are not true lilies."
+  },
+  {
+    "titleforRouting" :"snake-plant",
+    "title":"SNAKE PLANT",
+    "imageSrc":"/src/assets/snake plant.jpg",
+    "Introduction":"The snake plant, also known for its resilient nature, is a popular houseplant native to West Africa. Its tall, upright leaves are typically dark green with lighter green or yellow variegated patterns, resembling a snake's skin. "
+  },
+  {
+    "titleforRouting" :"turmeric",
+    "title":"TURMERIC",
+    "imageSrc":"/src/assets/TURMERIC.jpg",
+    "Introduction":"Turmeric, a rhizomatous herbaceous perennial plant, is native to South Asia. It is primarily cultivated for its rhizomes, which are used as a spice and a medicinal herb. Turmeric's vibrant yellow color comes from curcumin, a compound with potent antioxidant and anti-inflammatory properties."
+    },
+  {
+    "titleforRouting" :"bauhinia-variegata",
+    "title":"BAUGAINVILLEA GLABRA",
+    "imageSrc":"/src/assets/BAUGAINVILLEA GLABRA.jpg",
+    "Introduction":"Bougainvillea glabra is a popular ornamental plant known for its vibrant, colorful bracts that resemble flowers. Native to South America, it has been widely cultivated in tropical and subtropical regions around the world."
+    },
+  {
+    "titleforRouting" :"insulin",
+    "title":"INSULIN",
+    "imageSrc":"/src/assets/INSULIN.jpg",
+    "Introduction":"Insulin Plant, also known as Costus igneus, is a medicinal herb used in Ayurvedic medicine to treat various health conditions."
+    },
+  {
+    "titleforRouting" :"murraya-paniculata",
+    "title":"MURRAYA PANICULATA",
+    "imageSrc":"/src/assets/MURRAYA PANICULATA.jpg",
+    "Introduction":"Murraya paniculata is a beautiful evergreen shrub or small tree, renowned for its fragrant white flowers and glossy green leaves. Native to Southeast Asia, it has been cultivated for centuries due to its ornamental value and medicinal properties."
+    }
+]
